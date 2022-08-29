@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi!
 
 <!--
 **ianwu13/ianwu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👋 Hi, I’m Ian Wu
+- 👋 I’m Ian Wu
   - Pronouns: He/Him
   - Fun fact: I competed on my university's varsity fencing team 🤺 as an undergraduate student
 
