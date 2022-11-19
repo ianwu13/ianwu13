@@ -6,7 +6,7 @@
 
 - 👋 I’m Ian Wu
   - Pronouns: He/Him
-  - Fun fact: I competed on my university's varsity fencing team 🤺 as an undergraduate student
+  - Fun fact: I competed on my university's varsity fencing team 🤺 as an undergrad
 
 <br>
 
