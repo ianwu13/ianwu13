@@ -1,4 +1,4 @@
-![](/static/header_1.png)
+![](header_1.png)
 
 # Profiles and Contact
 
@@ -21,4 +21,3 @@
 | DevOps/MLOps and Deployment | ![Amazon AWS (Lambda, EC2, S3)](https://img.shields.io/badge/Amazon_AWS_(Lambda,_EC2,_S3)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Pickle](https://img.shields.io/badge/Pickle-93934A?style=for-the-badge&logo=&logoColor=white) |
 | Operating Systems | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
 | Other | ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) |
-
