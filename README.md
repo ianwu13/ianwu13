@@ -2,8 +2,8 @@
 
 # Profiles and Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ianwu13)](https://www.linkedin.com/in/ianwu13)
 [![Website](https://img.shields.io/badge/Website-005A9C?style=for-the-badge&logo=w3c&logoColor=white&link=https://ianwu13.github.io/)](https://ianwu13.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ianwu13)](https://www.linkedin.com/in/ianwu13)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://www.github.com/ianwu13)](https://www.github.com/ianwu13)
 [![Academic Email](https://img.shields.io/badge/Academic_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ianwu@usc.edu)](mailto:ianwu@usc.edu)
 [![Professional Email](https://img.shields.io/badge/Professional_Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&link=mailto:ianwu99@outlook.com)](mailto:ianwu99@outlook.com)
@@ -21,4 +21,3 @@
 | Code Collaboration | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white) |
 | Operating Systems | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
 | Other | ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) |
-
