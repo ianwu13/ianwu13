@@ -1,4 +1,4 @@
-![](/static/header_1.png)
+![](/header_1.png)
 
 # Profiles and Contact
 
