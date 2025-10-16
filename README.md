@@ -1,6 +1,5 @@
 # Profiles and Contact
 
-[![Website](https://img.shields.io/badge/Website-005A9C?style=for-the-badge&logo=w3c&logoColor=white&link=https://ianwu13.github.io/)](https://ianwu13.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ianwu13)](https://www.linkedin.com/in/ianwu13)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://www.github.com/ianwu13)](https://www.github.com/ianwu13)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&link=mailto:ianwu99@outlook.com)](mailto:ianwu99@outlook.com)
